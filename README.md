@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Thisi is a repo for the Data Scientist's Toolbox Course Project
+This is a repo for the Data Scientist's Toolbox Course Project
