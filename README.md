@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Thisi is a repo for the Data Scientist's Toolboc Course Project
+Thisi is a repo for the Data Scientist's Toolbox Course Project
